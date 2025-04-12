@@ -70,6 +70,7 @@ h1 img{
 .imgfim{
     margin: 0 34% 0;
     width: 500px;
+    max-width: 90%;
     height: auto;
 }
 @media (max-width: 768px){
